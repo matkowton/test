@@ -1,0 +1,17 @@
+{
+  "name": "matkowton/test",
+  "description": "test package",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Igor Poluyanov",
+      "email": "matkowton@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "~5.6"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  }
+}
